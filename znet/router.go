@@ -1,7 +1,7 @@
 package znet
 
 import (
-	"zinxProject/v11-connproperty/zinx/iface"
+	"github.com/King-tu/zinx/iface"
 )
 
 type Router struct {

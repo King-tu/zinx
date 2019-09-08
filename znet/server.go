@@ -5,8 +5,8 @@ import (
 	"log"
 	"net"
 	"runtime"
-	"zinxProject/v11-connproperty/zinx/iface"
-	"zinxProject/v11-connproperty/zinx/utils"
+	"github.com/King-tu/zinx/iface"
+	"github.com/King-tu/zinx/utils"
 )
 
 type Server struct {

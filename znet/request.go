@@ -1,6 +1,6 @@
 package znet
 
-import "zinxProject/v11-connproperty/zinx/iface"
+import 	"github.com/King-tu/zinx/iface"
 
 type Request struct {
 	IConn iface.IConnect

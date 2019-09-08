@@ -2,12 +2,12 @@ package znet
 
 import (
 	"fmt"
+	"github.com/King-tu/zinx/iface"
+	"github.com/King-tu/zinx/utils"
 	"io"
 	"log"
 	"net"
 	"sync"
-	"zinxProject/v11-connproperty/zinx/iface"
-	"zinxProject/v11-connproperty/zinx/utils"
 )
 
 type Connection struct {
